@@ -1,6 +1,6 @@
 # 👨‍💻 Python & JavaScript Developer | Selenium Automation | Ethical Hacking Student
 
-Hello! I'm [Your Name], a passionate developer specializing in **Python** and **JavaScript**. I create automated solutions using **Selenium** and I am constantly learning about **ethical hacking** and cybersecurity. My goal is to build efficient, secure, and scalable software while contributing to the open-source community.
+Hello! I'm Cristian Nugnes, a passionate developer specializing in **Python** and **JavaScript**. I create automated solutions using **Selenium** and I am constantly learning about **ethical hacking** and cybersecurity. My goal is to build efficient, secure, and scalable software while contributing to the open-source community.
 
 ## 🚀 Technologies and Skills
 
